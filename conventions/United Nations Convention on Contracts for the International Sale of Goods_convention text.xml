@@ -59,7 +59,7 @@
         </classification>
       <workflow source="#un">
         <step date="1980-04-11" outcome="adoption" as="A/CONF.97/18, Annex I" by="United Nations Conference on Contracts for the International Sale of Goods" href="https://treaties.un.org/doc/Treaties/1988/01/19880101%2003-03%20AM/Ch_X_10p.pdf" refersTo="trueCopy"/>
-        <step date="1988-01-01" outcome="entry into force" as="Treaty Series, volume 1489" by="Secretariat of the United Nations" href="https://treaties.un.org/doc/Publication/UNTS/Volume%201489/v1489.pdf" refersTo="treatySeries"/>
+        <step date="1988-01-01" outcome="entry into force" as="Treaty Series, volume 1489, page 3" by="Secretariat of the United Nations" href="https://treaties.un.org/doc/Publication/UNTS/Volume%201489/v1489.pdf" refersTo="treatySeries"/>
       </workflow>
       <workflow source="#un">
         <step date="1980-04-11" outcome="signature" by="Austria" refersTo="signatory"/>
